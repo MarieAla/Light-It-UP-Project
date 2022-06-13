@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lylia - Mobile Legends
+* source:	https://sketchfab.com/3d-models/lylia-mobile-legends-37626dfd300547e3881678b42bed5787
+* author:	kizaragy (https://sketchfab.com/kizaragy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lylia - Mobile Legends" (https://sketchfab.com/3d-models/lylia-mobile-legends-37626dfd300547e3881678b42bed5787) by kizaragy (https://sketchfab.com/kizaragy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

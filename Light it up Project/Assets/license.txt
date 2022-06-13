@@ -1,0 +1,11 @@
+Model Information:
+* title:	TCF 1977 V9 (1980 Version)
+* source:	https://sketchfab.com/3d-models/tcf-1977-v9-1980-version-16fe7ba2eca94fcf9f517a96b9064fab
+* author:	BlueTheTCFandFSPandTCSFan2022 Second Account (https://sketchfab.com/kemari.deric)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TCF 1977 V9 (1980 Version)" (https://sketchfab.com/3d-models/tcf-1977-v9-1980-version-16fe7ba2eca94fcf9f517a96b9064fab) by BlueTheTCFandFSPandTCSFan2022 Second Account (https://sketchfab.com/kemari.deric) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
